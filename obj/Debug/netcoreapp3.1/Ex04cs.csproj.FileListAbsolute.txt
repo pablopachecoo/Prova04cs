@@ -1,0 +1,11 @@
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\obj\Debug\netcoreapp3.1\Ex04cs.csprojAssemblyReference.cache
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\obj\Debug\netcoreapp3.1\Ex04cs.AssemblyInfoInputs.cache
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\obj\Debug\netcoreapp3.1\Ex04cs.AssemblyInfo.cs
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.exe
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.deps.json
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.runtimeconfig.json
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.runtimeconfig.dev.json
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.dll
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\bin\Debug\netcoreapp3.1\Ex04cs.pdb
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\obj\Debug\netcoreapp3.1\Ex04cs.dll
+C:\Users\POPF\source\repos\Ex04cs\Ex04cs\obj\Debug\netcoreapp3.1\Ex04cs.pdb
